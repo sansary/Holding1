@@ -1,0 +1,6 @@
+[submodule "LeafA"]
+	path = LeafA
+	url = https://github.com/sansary/LeafA.git
+[submodule "LeafC"]
+	path = LeafC
+	url = https://github.com/sansary/LeafC.git
